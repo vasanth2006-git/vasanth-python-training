@@ -3,7 +3,7 @@ senior = input("Is senior citizen? (yes/no): ")
 
 solar = input("Has solar panel? (yes/no): ")
 
-payment = input("is Payment mode offline: (yes or no)")
+payment = input("is Payment mode offline? (yes or no):")
 
 
 if units <= 100:
@@ -32,6 +32,13 @@ if bill < 200:
     bill = 200
 
 print("Electricity Bill is rs: ", bill)
+
+output :
+Enter units consumed: 400
+Is senior citizen? (yes/no): no
+Has solar panel? (yes/no): yes
+is Payment mode offline? (yes or no):yes
+Electricity Bill is rs:  1900
 
 
 
