@@ -30,3 +30,15 @@ result.get_input()
 result.check_elgiblity()
 result.give_output()
 
+output:
+No of rounds for each percantage of marks:
+enter the number of marks5
+percentage:80
+percentage:75
+percentage:105
+percentage:90
+percentage:33
+['3R', '3R', 'invalid', '1R', 'NA']
+
+
+
